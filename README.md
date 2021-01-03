@@ -3,3 +3,5 @@
 3) Lo primero es hacer un: git init
 4) Luego: git add .
 5) Luego: git commit -m "Primer commit"
+6) Luego: git branch -M main
+7) Luego: git push -u origin main
